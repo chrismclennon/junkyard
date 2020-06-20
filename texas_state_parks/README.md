@@ -1,6 +1,6 @@
 # Texas State Parks Reservation Notifier
 
-A super simple script that will check the Texas State Parks site every minute and send a text when a reservation is open.
+A super simple script that will check the Texas State Parks site every minute and send a text when a reservation is open. This has worked to get me some last minute reservations to parks that were booked out. :-)
 
 Needs [PopcornNotify](https://popcornnotify.com/) for SMS.
 
